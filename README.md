@@ -3,7 +3,7 @@
 
 # Elitium Vera Artificial Intelligence
 
-General repository for Elitium Vera AI Assistance
+General repository for Elitium Vera AI Assistance - Ongoing Research
 
 <br>
 <br>
